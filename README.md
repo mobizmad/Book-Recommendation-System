@@ -1,5 +1,5 @@
-📚 Hybrid Book Recommendation System
-📌 Overview
+
+
 This project implements a Hybrid Book Recommendation System by combining:
 1️⃣ SVD (Singular Value Decomposition) – A collaborative filtering technique.
 2️⃣ Top-N Popular Books – Based on ratings count and average rating.
